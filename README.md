@@ -1,4 +1,4 @@
-## Anno 117: UI-Scale Mod
+# Anno 117: Smaller UI Scale
 ![Gameplay UI 4K Example](/img/preview_1.jpg)
 ![Menu UI Example](/img/preview_3.jpg)
 ![Menu UI Example](/img/preview_2.jpg)
