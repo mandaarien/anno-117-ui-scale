@@ -1,0 +1,49 @@
+{
+  "ModID": "ui-scale",
+  "Version": "1.0.0",
+  "Anno": 8,
+  "Difficulty": "unchanged",
+ "GameSetup": {
+    "RequiresNewGame": false,
+    "SafeToRemove": true,
+    "Multiplayer": true,
+    "Campaign": true
+  },
+  "Dependencies": {
+    "Require": [],
+    "Optional": [],
+    "LoadAfter": [],
+    "Deprecate": [],
+    "Incompatible": []
+  },
+  "Category": {
+    "Chinese": "Misc",
+    "English": "Misc",
+    "French": "Misc",
+    "German": "Misc",
+    "Italian": "Misc",
+    "Japanese": "Misc",
+    "Korean": "Misc",
+    "Polish": "Misc",
+    "Russian": "Misc",
+    "Spanish": "Misc",
+    "Taiwanese": "Misc"
+  },
+  "ModName": {
+    "English": "Smaller UI",
+    "German": "Kleineres UI"
+  },
+  "Description": {
+    "English": "Reduces the UI scaling of all values by adjusting the UIConfigScaling values.",
+    "German": "Reduziert die UI-Skalierung aller Werte durch Anpassung der UIConfigScaling-Werte."
+  },
+   "DLCDependencies": null,
+  "CreatorName": "mandaarien",
+  "CreatorContact": "",
+  "ModioResourceId" : 5569409,
+  "changelog": {
+    "1.0" : "Release",
+    "1.0.1" : "Adding increment values list to assets.xml file. Changing some of the preset values."
+  },
+  "Image": null
+}
